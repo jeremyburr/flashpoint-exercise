@@ -1,4 +1,4 @@
-Reddit topic fetcher exercise
+Reddit topic fetcher exercise using React JS
 
 Instructions:
 
